@@ -1,0 +1,16 @@
+{
+  "project": "ad-hoc",
+  "host": "https://ad-hoc-8tb.pages.dev",
+  "prefix": "cooking",
+  "latest": "smoke-test",
+  "latest_url": "https://ad-hoc-8tb.pages.dev/cooking/latest/",
+  "updated_at": "2026-06-27T12:56:15Z",
+  "artifacts": [
+    {
+      "slug": "smoke-test",
+      "title": "Cooking Artifact Smoke Test",
+      "url": "https://ad-hoc-8tb.pages.dev/cooking/smoke-test/",
+      "deployed_at": "2026-06-27T12:56:15Z"
+    }
+  ]
+}
